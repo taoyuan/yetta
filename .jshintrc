@@ -1,0 +1,27 @@
+{
+  "curly": false,
+  "eqeqeq": true,
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "noarg": true,
+  "sub": true,
+  "undef": true,
+  "unused": true,
+  "boss": true,
+  "eqnull": true,
+  "node": true,
+  "nonew": true,
+  "noempty": true,
+  "globals"   : {
+      /* MOCHA */
+      "describe": false,
+      "it": false,
+      "suite": false,
+      "test": false,
+      "before": false,
+      "beforeEach": false,
+      "after": false,
+      "afterEach": false
+    }
+}

@@ -1,0 +1,51 @@
+{
+  "name": "yetta",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "description": "A simple, elegant node application framework for general purpose.",
+  "homepage": "https://github.com/taoyuan/yetta",
+  "bugs": "https://github.com/taoyuan/yetta/issues",
+  "author": {
+    "name": "Tao Yuan",
+    "email": "torworx@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taoyuan/yetta"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "yetta",
+    "node",
+    "app",
+    "application",
+    "framework",
+    "boot",
+    "bootable"
+  ],
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "chai": "*",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha-test": "~0.11.0",
+    "jshint-stylish": "^0.4.0",
+    "load-grunt-tasks": "^0.6.0",
+    "time-grunt": "~0.4.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "dependencies": {
+    "bootable": "^0.2.3",
+    "debug": "^1.0.4",
+    "scripts": "^0.1.0"
+  }
+}
