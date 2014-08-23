@@ -41,7 +41,7 @@ describe('phases/initializers', function() {
         var error;
 
         before(function(done) {
-            var phase = initializers({ dirname: __dirname + '/../fixtures/initializers/test' });
+            var phase = initializers({ dir: __dirname + '/../fixtures/initializers/test' });
             phase.call(app, function(err) {
                 error = err;
                 return done();

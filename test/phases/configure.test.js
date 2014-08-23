@@ -50,11 +50,11 @@ describe('phases/configure', function() {
         });
     });
 
-    describe('phase with dirname and env options', function() {
+    describe('phase with dir and env options', function() {
         var app = {};
         app.envs = [];
 
-        var phase = configure({ dirname: __dirname + '/../fixtures/configure/dir', env: 'production' });
+        var phase = configure({ dir: __dirname + '/../fixtures/configure/dir', env: 'production' });
         phase.call(app);
 
         it('should load environments', function() {
@@ -67,7 +67,7 @@ describe('phases/configure', function() {
         var app = {};
         app.envs = [];
 
-        var phase = configure({ dirname: __dirname + '/../fixtures/configure/dir', env: 'test' });
+        var phase = configure({ dir: __dirname + '/../fixtures/configure/dir', env: 'test' });
         phase.call(app);
 
         it('should load environments', function() {
