@@ -5,7 +5,7 @@ Yetta
 [![Dependencies](https://img.shields.io/david/taoyuan/yetta.svg?style=flat)](https://david-dm.org/taoyuan/yetta)
 
 > Yetta is an extensible initialization module for [Node.js](http://nodejs.org/)
-> applications based on [bootable](https://github.com/jaredhanson/bootable).
+> applications based on [Bootable](https://github.com/jaredhanson/bootable).
 
 > Yetta allows initialization *phases* to be registered for an application.
 > These phases will be executed sequentially during startup, after which 
