@@ -13,7 +13,7 @@ Yetta
 
 ## Install
 
-```shell
+```bash
 $ npm install yetta
 ```
 
@@ -84,7 +84,7 @@ and reusable chunks of logic.
 
 ## Tests
 
-```shell
+```bash
  $ npm install
  $ npm test
 ```
