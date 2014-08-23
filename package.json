@@ -18,9 +18,6 @@
       "type": "MIT"
     }
   ],
-  "files": [
-    "lib"
-  ],
   "keywords": [
     "yetta",
     "node",
