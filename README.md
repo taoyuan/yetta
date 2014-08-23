@@ -1,4 +1,7 @@
-#  [![Build Status](https://secure.travis-ci.org/taoyuan/yetta.png?branch=master)](http://travis-ci.org/taoyuan/yetta)
+yetta
+=====
+  [![NPM Version](https://img.shields.io/npm/v/yetta.svg?style=flat)](https://www.npmjs.org/package/yetta)
+  [![Build Status](http://img.shields.io/travis/taoyuan/yetta.svg?style=flat)](https://travis-ci.org/taoyuan/yetta)
 
 > A simple, elegant node application framework for general purpose.
 
