@@ -1,7 +1,8 @@
 yetta
 =====
-  [![NPM Version](https://img.shields.io/npm/v/yetta.svg?style=flat)](https://www.npmjs.org/package/yetta)
-  [![Build Status](http://img.shields.io/travis/taoyuan/yetta.svg?style=flat)](https://travis-ci.org/taoyuan/yetta)
+[![NPM Version](https://img.shields.io/npm/v/yetta.svg?style=flat)](https://www.npmjs.org/package/yetta)
+[![Build Status](http://img.shields.io/travis/taoyuan/yetta.svg?style=flat)](https://travis-ci.org/taoyuan/yetta)
+[![Dependencies](https://img.shields.io/david/taoyuan/yetta.svg?style=flat)](https://david-dm.org/taoyuan/yetta)
 
 > A simple, elegant node application framework for general purpose.
 
