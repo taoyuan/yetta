@@ -15,7 +15,7 @@ module.exports = function (grunt) {
         ui: 'bdd'
       },
       test: {
-        src: ['test/**/*.js']
+        src: ['test/*.test.js', 'test/**/*.test.js']
       }
     },
     jshint: {
