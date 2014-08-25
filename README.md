@@ -11,7 +11,7 @@ Yetta
 > These phases will be executed sequentially during startup, after which 
 > the application will be ready to run.
 
-## Install
+## Installation
 
 ```bash
 $ npm install yetta
