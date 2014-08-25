@@ -4,7 +4,7 @@ var structure = require('../../lib/phases/structure');
 var s = require('../support');
 var t = s.t;
 
-describe.only('phases/structure', function() {
+describe('phases/structure', function() {
 
     it('should export a setup function', function () {
         t.isFunction(structure);
