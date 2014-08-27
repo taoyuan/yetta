@@ -75,4 +75,17 @@ describe('phases/configure', function() {
         });
     });
 
+    describe('phase with environment that throw an error', function() {
+        var app = {};
+        app.envs = [];
+
+        var phase = configure(__dirname + '/../fixtures/configure/error');
+
+        it('should throw error', function() {
+            t.throws(function () {
+                phase.call(app);
+            });
+        });
+    });
+
 });

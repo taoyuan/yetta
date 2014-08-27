@@ -1,6 +1,6 @@
 {
   "name": "yetta",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "lib/index.js",
   "description": "A simple, elegant node application framework for general purpose.",
   "homepage": "https://github.com/taoyuan/yetta",
