@@ -2,8 +2,6 @@
 
 module.exports = function () {
     return {
-        "development": {
-            "foo": this.name
-        }
+        "foo": this.name
     };
 };
