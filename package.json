@@ -28,22 +28,22 @@
     "bootable"
   ],
   "devDependencies": {
-    "mocha": "^1.21.4",
+    "mocha": "^6.2.0",
     "chai": "*",
-    "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-mocha-test": "^0.11.0",
-    "jshint-stylish": "^0.4.0",
-    "load-grunt-tasks": "^0.6.0",
-    "time-grunt": "~1.0.0"
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-mocha-test": "^0.13.3",
+    "jshint-stylish": "^2.2.1",
+    "load-grunt-tasks": "^5.1.0",
+    "time-grunt": "~2.0.0"
   },
   "scripts": {
     "test": "grunt"
   },
   "dependencies": {
     "bootable": "^0.2.3",
-    "debug": "^1.0.4",
-    "needs": "^0.1.7",
+    "debug": "^4.1.1",
+    "needs": "^1.0.4",
     "resolve": "^1.0.0"
   }
 }
