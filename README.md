@@ -2,7 +2,7 @@ Yetta
 =====
 [![NPM Version](https://img.shields.io/npm/v/yetta.svg?style=flat)](https://www.npmjs.org/package/yetta)
 [![Build Status](http://img.shields.io/travis/taoyuan/yetta.svg?style=flat)](https://travis-ci.org/taoyuan/yetta)
-[![Dependencies](https://img.shields.io/david/taoyuan/yetta.svg?style=flat)](https://david-dm.org/taoyuan/yetta)
+[![Dependencies](https://img.shields.io/david/taoyuan/yetta.svg?style=flat)](https://david-dm.org/taoyuan/yetta) [![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/yetta.svg)](https://greenkeeper.io/)
 
 > Yetta is an extensible initialization module for [Node.js](http://nodejs.org/)
 > applications based on [Bootable](https://github.com/jaredhanson/bootable).
